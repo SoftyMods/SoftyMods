@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello welcome to my GitHub
+I am a student and i do school or something
 
+im just looking at this GitHub customize thing idk what im doing
+
+Goodbye
+
+I might make a website soon
 <!--
 **SoftyMods/SoftyMods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
